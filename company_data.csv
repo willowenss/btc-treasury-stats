@@ -1,0 +1,8 @@
+name,ticker,shares_outstanding,share_price,btc_nav,fiat_debt,btc_yield_ytd,months_since_start,current_mnav,projected_yield,risk_score
+Gains Network,gns,30000000,5.5,8500000,1000000,24,5,1.25,28,1.1
+MicroStrategy,mstr,14000000,1700.0,12000000000,2500000000,12,5,1.1,15,1.0
+MetaPlanet,metaplanet,100000000,0.3,2500000,0,35,5,1.3,40,0.9
+Kulr Technology,kulr,50000000,0.85,750000,100000,15,5,1.05,18,1.2
+Moon Incorporated,mooninc,25000000,0.12,1000000,50000,10,5,1.02,12,1.3
+Jetking InfoTrain,jetking,20000000,0.5,120000,10000,8,5,1.01,10,1.1
+Semler Scientific,smlr,15000000,25.0,5000000,250000,18,5,1.15,22,1.0
